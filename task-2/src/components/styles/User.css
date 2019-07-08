@@ -1,0 +1,25 @@
+.UserList {
+  width: 450px;
+  margin: auto;
+  border: 1px solid #e0e0eb;
+  text-align: left;
+  padding: 16px;
+}
+
+.UserList_inner {
+  padding: 0;
+}
+
+.UserListItem {
+  list-style-type: none;
+}
+
+.phoneHeader {
+  margin: 0;
+  padding-top: 10px;
+}
+
+.userItem {
+  font-weight: 550;
+  margin-right: 5px;
+}

@@ -1,0 +1,8 @@
+.DragArea {
+  width: 350px;
+  background-color: #fbfdfd;
+  border: 1px solid #bdbdbd;
+  margin: 30px auto;
+  padding: 5px 5px 150px 5px;
+  box-shadow: 5px 5px 12px 5px #a4a4a4;
+}
